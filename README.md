@@ -18,6 +18,15 @@ Este módulo fornece a base essencial de estatística e programação em Python 
 - **Introdução à Programação com Python**
   - Python I, II e III
 
+### 📊 Módulo: Tendências em Data Science e Analytics
+
+Explora métodos modernos e técnicas emergentes na ciência de dados, como deep learning, análise de sentimentos, e modelos de otimização e simulação.
+
+**Disciplinas:**
+- **Data Wrangling**
+  - Data Wrangling I, II, III e IV
+
+
 ---
 
 
@@ -29,4 +38,5 @@ O repositório será organizado por módulos e disciplinas, com notebooks, scrip
 - `modulo-introdutorio/`: Fundamentos de Estatística e Programação com Python
 
 ---
+
 
