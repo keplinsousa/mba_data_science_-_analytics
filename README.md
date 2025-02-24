@@ -23,8 +23,11 @@ Este módulo fornece a base essencial de estatística e programação em Python 
 Explora métodos modernos e técnicas emergentes na ciência de dados, como deep learning, análise de sentimentos, e modelos de otimização e simulação.
 
 **Disciplinas:**
-- **Data Wrangling**
-  - Data Wrangling I, II, III e IV
+- Data Wrangling
+- Árvores, Redes e Ensemble Models
+- Introdução ao Deep Learning
+- Deep Learning
+- Coleta de Dados: Crawlers e Web Scraping
 
 
 ---
@@ -35,7 +38,8 @@ Explora métodos modernos e técnicas emergentes na ciência de dados, como deep
 
 O repositório será organizado por módulos e disciplinas, com notebooks, scripts, e relatórios relevantes para cada tema.
 
-- `modulo-introdutorio/`: Fundamentos de Estatística e Programação com Python
+- `01-modulo-introdutorio/`: Fundamentos de Estatística e Programação com Python
+- `02-modulo-tendencias-data-science/`: Técnicas e Tendências em Ciência de Dados
 
 ---
 
