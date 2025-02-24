@@ -13,10 +13,8 @@ O MBA é dividido em módulos específicos que abordam desde fundamentos estatí
 Este módulo fornece a base essencial de estatística e programação em Python para preparar os alunos para os tópicos avançados dos próximos módulos.
 
 **Disciplinas:**
-- **Fundamentos de Estatística**
-  - Estatística I, II e III
-- **Introdução à Programação com Python**
-  - Python I, II e III
+- Fundamentos de Estatística
+- Introdução à Programação com Python
 
 ### 📊 Módulo: Tendências em Data Science e Analytics
 
