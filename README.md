@@ -23,7 +23,6 @@ Explora métodos modernos e técnicas emergentes na ciência de dados, como deep
 **Disciplinas:**
 - Data Wrangling
 - Árvores, Redes e Ensemble Models
-- Introdução ao Deep Learning
 - Deep Learning
 - Coleta de Dados: Crawlers e Web Scraping
 
